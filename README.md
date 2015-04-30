@@ -1,4 +1,4 @@
-# remote-work-toolbox
+# Tools available for remote workers
 
 Remote work is hard, no matter what the self help books and coworking space marketers say. Office workers have certain benefits: regular interaction with coworkers, a stable location with good wifi and amenities, the ability to improve their cubicles, and above all, routine. Remote workers often don't have these things, and the grind of finding them is real. 
 
@@ -7,8 +7,6 @@ I've been debating a lot about remote work recently, especially during times of 
 This list is for those times - these are tools that can be used to refocus, to become present, to fight loneliness, depression, and choke points for productivity. _Please contribute if you have tools you use that are not on this list._ 
 
 These are all also useful for office workers - however, I feel that remote workers, digital nomads, and specifically tech workers often need to be reminded they exist, and to use them. 
-
-# Tools available for remote workers
 
 ## Immediate Tools
  
@@ -35,4 +33,3 @@ These are all also useful for office workers - however, I feel that remote worke
  * **Keep in touch with friends at home**. Write letters, skype, facebook poke. Do whatever you can to keep mundane relationships going.
  * **Foster community where you are**. For instance, throw a [NodeSchool](http://nodeschool.io), join #Nomads, go to CouchSurfing meetups.
  * **Give back to your communities where you are**. This will help you feel connected and fight loneliness.
- 

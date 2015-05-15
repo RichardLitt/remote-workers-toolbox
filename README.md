@@ -29,6 +29,7 @@ _Please contribute if you have tools you use that are not on this list._
  * **Journal**. 
  * **Sleep in the dark**. 
  * **Schedule**. Block out time for tasks, and in particular for work. Don't always be on - make sure you schedule time to be off. The easiest way to fail to do this is not to schedule time at all. 
+ * **Make your bed**. Starting the day with making your bed is a quick way to get a win early on in the day, and to feel like you're in control when you come back to your bedroom at night. You can't organize everything or fix everything, but you can make your bed. 
 
 ## Periodically
 

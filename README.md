@@ -22,14 +22,20 @@ _Please contribute if you have tools you use that are not on this list._
 
  * **Exercise**.
  * **Diet**. Some diets may be particularly helpful, such as the [keto]() diet. 
- * **Avoid your phone when waking up for as long as possible**. This will help you avoid the downward spiral of reacting to everything.
+ * **Avoid your phone when waking up for as long as possible**. A common amount of time is one hour. This will help you avoid the downward spiral of reacting to everything.
  * **Write down your daily tasks the night before**. This can also be done at the end of your workday.
  * **Select 1 thing to do each day**. No more - get one thing done.
  * **Party moderately**. It is very easy to party too hard on the road. Remember this is your life. 
  * **Journal**. 
+ * **Sleep in the dark**. 
+
+## Periodically
+
+ * **Cook for yourself**. A lot of the time, we forget that pretending like we are at home can be a therapeutic experience. Cooking for yourself is one of the easiest ways to do this, and allows you to plan out your diet with greater control. 
 
 ## Long Term
 
+ * **Meet old friends**. It is incredibly important to stay connected to your old social group - wherever it is. Make sure to go out of your way to meet fellow nomads. 
  * **Keep in touch with friends at home**. Write letters, skype, facebook poke. Do whatever you can to keep mundane relationships going.
  * **Foster community where you are**. For instance, throw a [NodeSchool](http://nodeschool.io), join #Nomads, go to CouchSurfing meetups.
  * **Give back to your communities where you are**. This will help you feel connected and fight loneliness.

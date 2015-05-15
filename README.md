@@ -28,6 +28,7 @@ _Please contribute if you have tools you use that are not on this list._
  * **Party moderately**. It is very easy to party too hard on the road. Remember this is your life. 
  * **Journal**. 
  * **Sleep in the dark**. 
+ * **Schedule**. Block out time for tasks, and in particular for work. Don't always be on - make sure you schedule time to be off. The easiest way to fail to do this is not to schedule time at all. 
 
 ## Periodically
 

@@ -17,6 +17,8 @@ _Please contribute if you have tools you use that are not on this list._
  * **Take a shower**.
  * **Go for a run**. 
  * **Eat something sweet**, like chocolate. There are immediate benefits for energy levels (cite).
+ * **Meditate**.
+ * **Write about something other than your problem.** Specifically, what else is on your plate that is getting in the way.
 
 ## Daily
 

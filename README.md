@@ -35,7 +35,8 @@ _Please contribute if you have tools you use that are not on this list._
 
 ## Periodically
 
- * **Cook for yourself**. A lot of the time, we forget that pretending like we are at home can be a therapeutic experience. Cooking for yourself is one of the easiest ways to do this, and allows you to plan out your diet with greater control. 
+ * **Cook for yourself**. A lot of the time, we forget that pretending like we are at home can be a therapeutic experience. Cooking for yourself is one of the easiest ways to do this, and allows you to plan out your diet with greater control.
+ * **Streaks**. Streaks, or doing the same thing routinely (most usually once a day for however many days) are incredibly useful tools for establishing routines and for motivation. Breaking a streak generally involves a small amount of disappointment. This disappointment can be utilized as motivation for doing a task on a day when the streak would otherwise be broken. The major reasons for not using streaks is that they can be tiring in themselves, that they can enforce the bad behavior of not updating one's priorities (in case the task is no longer as relevant or useful as it once was), and that they have a major discouraging factor when broken that may lead to not taking up the task again for some time.
 
 ## Long Term
 

@@ -13,7 +13,7 @@ _Please contribute if you have tools you use that are not on this list._
  * **Go for a walk**.
  * **Ask for help**. Ask anyone working near you, or on social media.
  * **Write your problem down**. Often, the simple act of writing helps clarify complex problems.
- * **Wash your face with cold water**. (This works by triggering your [mammalian diving reflex](https://en.wikipedia.org/wiki/Mammalian_diving_reflex))
+ * **Wash your face with cold water**. (This triggers your [mammalian diving reflex](https://en.wikipedia.org/wiki/Mammalian_diving_reflex), lowering your heart rate, constricting your peripheral vasculature, and driving blood to your core)
  * **Take a shower**.
  * **Go for a run**.
  * **Eat something sweet**, like chocolate. There are immediate benefits for energy levels (cite).
